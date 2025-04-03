@@ -9,6 +9,6 @@ public class UserActivity {
     private User user;
     private Organization organization;
     private Subscription subscription;
-    private Service service;
+    private Benefit benefit;
     private ServiceStatus status;
 }

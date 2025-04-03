@@ -1,0 +1,24 @@
+{
+  "id" : "2",
+  "name" : "Test Service Two",
+  "description" : "This is a test service Two",
+  "logo" : "logo.png",
+  "accessMethods" : {
+    "FACE_TO_FACE" : {
+      "url" : "faceId",
+      "key" : "faceSecret"
+    },
+    "CHAT" : {
+      "url" : "chatId",
+      "key" : "chatSecret"
+    },
+    "AUDIO_CALL" : {
+      "url" : "voiceId",
+      "key" : "voiceSecret"
+    }
+  },
+  "charges" : {
+    "SUBSCRIPTION" : 10.0,
+    "PAY_AS_YOU_GO" : 5.0
+  }
+}
